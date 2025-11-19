@@ -1,4 +1,4 @@
-module gitlab.com/george/shoya-go
+module gitlab.com/GrizzleyGithub/shoya-go
 
 go 1.18
 
